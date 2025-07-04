@@ -81,7 +81,6 @@ body{
     justify-content: center;
 }
 .parametro-senha__botao{
-background-color: var(--cor-de-fundo);
     width: 50%;
     margin: 0 auto;
 }
